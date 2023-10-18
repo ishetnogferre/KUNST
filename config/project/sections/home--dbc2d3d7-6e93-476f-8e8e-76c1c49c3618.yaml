@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  3496e3e9-5b48-4d87-9caf-2f8a4c785c39: # Horoscopia
+    enabledByDefault: true
+    hasUrls: true
+    template: _pages/home.twig
+    uriFormat: __home__
+type: single

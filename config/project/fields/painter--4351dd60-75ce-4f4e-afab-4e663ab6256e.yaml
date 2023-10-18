@@ -1,0 +1,19 @@
+columnSuffix: jthbsjfd
+contentColumnType: text
+fieldGroup: 44a12379-2b54-430a-9548-0024474500bb # Common
+handle: painter
+instructions: null
+name: Schilder
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
